@@ -6,7 +6,7 @@
   - Smart AI/ML integrated Web apps  
   - Real-world projects with FastAPI + React  
   - Resume parsing and financial dashboards
-- 🌱 I’m currently learning **Next.js, LangChain, LlamaIndex & Azure Cloud** <br>
+- 🌱 I’m currently learning **C#, .NET CORE, AI/ML Basics** <br>
 - 👯 I’m looking to collaborate on **Open Source, AI Projects, and Developer Tools** <br>
 - 💬 Coding skills - **C++, Pyhton(basics),MySQL,HTML,CSS,JS** <br>
 - 💬 Ask me about **Python, React, FastAPI, OpenAI API, Git, and DSA** <br>
